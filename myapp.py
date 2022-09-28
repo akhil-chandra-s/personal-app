@@ -154,3 +154,4 @@ st.markdown('''
 ## Social Media
 ''')
 txt2('LinkedIn', 'www.linkedin.com/in/akhil-chandra-shanivendra')
+txt2('GitHub', 'https://github.com/akhil-chandra-s')
