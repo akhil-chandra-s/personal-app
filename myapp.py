@@ -144,7 +144,7 @@ st.markdown('''
 txt3('Programming', '`Python`, `R`, `SQL`, `NoSQL`, `SAS`, `VBA`')
 txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
 txt3('Data visualization', '`Tableau`, `PowerBI` ,`matplotlib`, `seaborn`, `plotly`, `ggplot2`')
-txt3('Machine Learning', '`Linear/Logistic Regression`, `Classification and Regression Trees`, `Neural Networks`, `Clustering`, `Association Rules`, `KNN`, `Statistical Analysis.`')
+txt3('Machine Learning', '`Linear/Logistic Regression`, `Classification and Regression Trees`, `Neural Networks`, `Clustering`, `Association Rules`, `KNN`, `Ensemble Techniques`, `Statistical Analysis.`')
 txt3('Databases', '`MySQL`, `SQL-Server`, `MongoDB`')
 txt3('Big Data Technologies', '`Spark`, `Hadoop`, `Kafka`, `MapReduce`, `Sqoop`, `Hive`, `Impala`')
 txt3('Certifications', '`AWS Cloud Practitioner`, `Lean Six Sigma Yellow Belt`, `Certified Extreme Event Modeller (CEEM), AIR`, `Oracle Certified SQL Developer`.')
