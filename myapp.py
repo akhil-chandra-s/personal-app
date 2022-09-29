@@ -119,18 +119,20 @@ st.markdown('''
 - Automated the Geocoding and Address cleansing process using Python, VBA, and Geocoding APIs, which increased the revenue of the data services division by almost $350,000
 - Designed a custom application using Python and SQL, allowing users to execute three complex processes with a single click, thus eliminating manual intervention and reducing the processing time by 40%.
 - Developed a single click automation solution for a complex data application process using Python, VBA, SQL, XML, which reduced the data application time by 60%.
-- Written Hive and Impala queries for data analysis and ETL, loaded the data into tables to meet the business requirements.
 ''')
 
 txt('**Analyst I, Verisk Analytics**, Hyderabad, India',
 'Dec 2020 - Mar 2020')
 st.markdown('''
 - Improved and streamlined the process by automating the existing workflow applying Python, VBA, SQL, and C#, which increased the team's efficiency and reduced the manual work time by 50%.
-- Performed data modeling and prepared data in databases for various downstream analytical tools.
-- Worked on an internal tool to build a data linage to enable the team to trace the issues in case of inquiries.
-- Developed ETL processes using a combination of SQL, Python, Spark, and Hive
+- Received, cleaned, and prepped data from clients using Python, SQL, Excel to perform risk analysis using catastrophe models to provide loss numbers.
 - Built data visualizations using Tableau, Excel, SQL for business KPIs that reduced manual reporting by 8 hours.
 - Developed efficient SQL queries to create tables extract data for uploading, reporting, and visualizations.
+- Managed the onboarding process of new clients by creating data and results templates as per the requirement.
+- Performed data modeling and prepared data in databases for various downstream analytical tools.
+
+
+
 ''')
 
 
