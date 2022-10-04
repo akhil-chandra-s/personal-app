@@ -152,6 +152,20 @@ txt3('Big Data Technologies', '`Spark`, `Hadoop`, `Kafka`, `MapReduce`, `Sqoop`,
 txt3('Certifications', '`AWS Cloud Practitioner`, `Lean Six Sigma Yellow Belt`, `Certified Extreme Event Modeller (CEEM), AIR`, `Oracle Certified SQL Developer`.')
 
 #####################
+
+#####################
+st.markdown('''
+##  Projects
+''')
+txt3('Credit_Card_Fraud_Detection', '')
+txt3('Customer_Churn_Telecom', '')
+txt3('Insurance_Claim_Prediction', '')
+txt3('Loan_Prediction', '')
+
+#####################
+
+
+
 st.markdown('''
 ## Social Media
 ''')
