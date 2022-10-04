@@ -157,10 +157,10 @@ txt3('Certifications', '`AWS Cloud Practitioner`, `Lean Six Sigma Yellow Belt`, 
 st.markdown('''
 ##  Projects
 ''')
-txt3('Credit_Card_Fraud_Detection', '')
-txt3('Customer_Churn_Telecom', '')
-txt3('Insurance_Claim_Prediction', '')
-txt3('Loan_Prediction', '')
+txt3('Credit_Card_Fraud_Detection', 'https://github.com/akhil-chandra-s/Credit_Card_Fraud_Detection')
+txt3('Customer_Churn_Telecom', 'https://github.com/akhil-chandra-s/Loan_Prediction')
+txt3('Insurance_Claim_Prediction', 'https://github.com/akhil-chandra-s/Insurance_Claim_Prediction')
+txt3('Loan_Prediction', 'https://github.com/akhil-chandra-s/Loan_Prediction')
 
 #####################
 
