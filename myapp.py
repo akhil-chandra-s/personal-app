@@ -146,7 +146,7 @@ st.markdown('''
 st.markdown('''
 ## Skills
 ''')
-txt3('Programming', '`Python`, `R`, `SQL`, `NoSQL`, `SAS`, `VBA`')
+txt3('Programming', '`Python`, `R`, `SQL`, `SAS`, `VBA`, `C#` ')
 txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
 txt3('Data visualization', '`Tableau`, `PowerBI` ,`matplotlib`, `seaborn`, `plotly`, `ggplot2`')
 txt3('Machine Learning', '`Linear/Logistic Regression`, `Classification and Regression Trees`, `Neural Networks`, `Clustering`, `Association Rules`, `KNN`, `Ensemble Techniques`, `Statistical Analysis.`')
