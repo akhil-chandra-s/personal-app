@@ -19,7 +19,7 @@ st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
 - I am an experienced analyst with a demonstrated history of working in the Analytics space in the development, automation, and software integration for four years. 
 - I developed cutting-edge analytical tools and techniques and worked with clients across various domains, including Insurance, financial services, and risk management sectors. 
-- Skilled in Python, R, Machine Learning, SQL, NoSQL, C#, VBA, Microsoft Excel, Cloud Computing(AWS), Data Visualization.
+- Skilled in Python, R, Machine Learning, SQL, C#, VBA, Microsoft Excel, Cloud Computing(AWS), Data Visualization.
 ''')
 
 #####################
