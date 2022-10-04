@@ -164,11 +164,27 @@ txt3('Credit_Card_Fraud_Detection', 'https://github.com/akhil-chandra-s/Credit_C
 st.markdown('''
 - Predict fraudulent credit card transactions so that the customers of credit card companies are not charged for items that they did not purchase.
 - Used libraries like Numpy, Pandas, Scikit-Learn, Matplotlib, pycaret for comparing all models with target model.
-- Random Forest was the first model used to preict the outcome, then I compared it with all the models using the pycaret library.
+- Random Forest was the first model used to predict the outcome, then I compared it with all the models using the pycaret library.
 ''')
 txt3('Customer_Churn_Telecom', 'https://github.com/akhil-chandra-s/Loan_Prediction')
+st.markdown('''
+- Predict behavior of the telecom customers and analyze all relevant customer data and developed models for customer retention.
+- Made use of libraries like Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn.
+- Used machine leraning models such as Logistic regression, KNN, Random Forest, Decision Trees, Gradient Boost.
+''')
 txt3('Insurance_Claim_Prediction', 'https://github.com/akhil-chandra-s/Insurance_Claim_Prediction')
+st.markdown('''
+- A simple yet challenging project, to anticipate whether the insurance will be claimed or not.
+- Made use of libraries like Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn.
+- Built classification model to predict weather the insurance will be claimed or not and also fine-tune the hyperparameters & compare the evaluation metrics of vaious classification algorithms.
+- Used machine leraning models such as Logistic regression, Random Forest, Decision Trees, Gradient Boost, Extreme dradient boosting, Support vector machines.
+''')
 txt3('Loan_Prediction', 'https://github.com/akhil-chandra-s/Loan_Prediction')
+st.markdown('''
+- predict whether a loan will be approved for an applicant based on previous data.
+- Made use of libraries like Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn.
+- Used machine leraning models such as Logistic regression to predict the outcome.
+''')
 
 #####################
 
