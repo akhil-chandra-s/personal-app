@@ -47,6 +47,9 @@ st.markdown("""
       <li class="nav-item">
         <a class="nav-link" href="#skills">Skills</a>
       </li>
+       <li class="nav-item">
+        <a class="nav-link" href="#Projects">Skills</a>
+      </li>
       <li class="nav-item">
         <a class="nav-link" href="#social-media">Social Media</a>
       </li>
@@ -155,7 +158,7 @@ txt3('Certifications', '`AWS Cloud Practitioner`, `Lean Six Sigma Yellow Belt`, 
 
 #####################
 st.markdown('''
-##  Projects
+## Projects
 ''')
 txt3('Credit_Card_Fraud_Detection', 'https://github.com/akhil-chandra-s/Credit_Card_Fraud_Detection')
 txt3('Customer_Churn_Telecom', 'https://github.com/akhil-chandra-s/Loan_Prediction')
