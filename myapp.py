@@ -99,7 +99,7 @@ txt('**Master of Science** (Business Analytics), *University of Texas at Dallas*
 st.markdown('''
 - Deans Excellence Scholarship
 - GPA: `3.5`
-- Relevant Courses: Advanced Statistics for Data Science, Business Analytics with R, Cloud Computing, Database Management, Applied Machine Learning, Big Data, Programming for Data Science, Predictive Analytics with SAS. 
+- Relevant Courses: Advanced Statistics for Data Science, Business Analytics with R, Cloud Computing, Database Management, Applied Machine Learning, Big Data, Programming for Data Science, Predictive Analytics with SAS, Prescriptive Analytics 
 ''')
 
 txt('**Bachelors of Technology** (Information Technology), *Jawaharlal Nehru Technological University*, Hyderabad',
