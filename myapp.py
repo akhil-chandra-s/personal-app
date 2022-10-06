@@ -9,7 +9,6 @@ with open("style.css") as f:
 st.write('''
 # Akhil Chandra Shanivendra 
 # MS Business Analytics, UTD.
-##### *Resume* 
 ''')
 
 image = Image.open("DP.jpg")
@@ -152,6 +151,7 @@ txt3('Data visualization', '`Tableau`, `PowerBI` ,`matplotlib`, `seaborn`, `plot
 txt3('Machine Learning', '`Linear/Logistic Regression`, `Classification and Regression Trees`, `Neural Networks`, `Clustering`, `Association Rules`, `KNN`, `Ensemble Techniques`, `Statistical Analysis.`')
 txt3('Databases', '`MySQL`, `SQL-Server`')
 txt3('Big Data Technologies', '`Spark`, `Hadoop`, `Kafka`, `MapReduce`, `Sqoop`, `Hive`, `Impala`')
+txt3('Others', '`Jupyter Notebook`, `A/B Testing`, `GitHub`, `Agile`, `Git`, `Excel`')
 txt3('Certifications', '`AWS Cloud Practitioner`, `Lean Six Sigma Yellow Belt`, `Certified Extreme Event Modeller (CEEM), AIR`, `Oracle Certified SQL Developer`.')
 
 #####################
