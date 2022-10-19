@@ -114,24 +114,31 @@ st.markdown('''
 ## Work Experience
 ''')
 
+txt('**Data Science Intern, Varunavi Consultants Inc**, Dallas(Remote), USA',
+'May 2022 - Aug 2022')
+st.markdown('''
+- Worked on credit risk data; presented analysis and made recommendations to assist in reducing losses.
+- Utilized Machine Learning methods like Random Forest, Logistic Regression, Classification and Regression Trees.
+- Pre-processed and analyzed the data using Python library Pandas and built data visualizations in Tableau.
+''')
+
 txt('**Analyst II, Verisk Analytics**, Hyderabad, India',
 'Apr 2020 - Jul 2021')
 st.markdown('''
-- Collaborated on a recommendation system project utilizing a state-of-the-art language model for NLP(BERT), integrated it into the work environment, and reduced the manual processing time by almost 50%.
-- Automated the Geocoding and Address cleansing process using Python, VBA, and Geocoding APIs, which increased the revenue of the data services division by almost $350,000
-- Designed a custom application using Python and SQL, allowing users to execute three complex processes with a single click, thus eliminating manual intervention and reducing the processing time by 40%.
-- Developed a single click automation solution for a complex data application process using Python, VBA, SQL, XML, which reduced the data application time by 60%.
+- Utilized a state-of-the-art NLP model (BERT) on a recommendation system project, embedded it into the workflow, and reduced the need for human processing time by over 50%.
+- Automated geocoding and address cleansing with Python, VBA, and Geocoding APIs, cutting data cleansing time by 40% while increasing data services income by $350,000.
+- Created a tool using Python and SQL that streamlines the execution of three complex tasks into a single mouse click, cutting user input by 40%.
+- Developed a one-click automation solution combining Python, VBA, SQL, and XML to streamline a tedious data application process and cut processing time by 60%.
 ''')
 
 txt('**Analyst I, Verisk Analytics**, Hyderabad, India',
 'Dec 2020 - Mar 2020')
 st.markdown('''
-- Improved and streamlined the process by automating the existing workflow applying Python, VBA, SQL, and C#, which increased the team's efficiency and reduced the manual work time by 50%.
-- Received, cleaned, and prepped data from clients using Python, SQL, Excel to perform risk analysis using catastrophe models to provide loss numbers.
-- Built data visualizations using Tableau, Excel, SQL for business KPIs that reduced manual reporting by 8 hours.
-- Developed efficient SQL queries to create tables extract data for uploading, reporting, and visualizations.
-- Managed the onboarding process of new clients by creating data and results templates as per the requirement.
-- Performed data modeling and prepared data in databases for various downstream analytical tools.
+- Improved the existing procedure by automating it using Python, VBA, SQL, and C#, significantly boosting the team's productivity and cutting down on manual labor by 50%.
+- Received, cleansed, and prepared client data using Python, SQL, and Excel to do risk analysis using catastrophe models and deliver loss statistics within 48 hours.
+- Built a dashboard for company KPIs using Tableau, Excel, and SQL to minimize manual reporting by 8 hours.
+- Developed efficient SQL queries to extract data for reports and visualizations, saving 40% manual effort.
+- Created a tool that plots address information on a map using Maps API to find invalid addresses 50% faster
 
 
 
