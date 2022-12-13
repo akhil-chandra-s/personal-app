@@ -117,9 +117,9 @@ st.markdown('''
 txt('**Data Science Intern, Varunavi Consultants Inc**, Dallas(Remote), USA',
 'May 2022 - Aug 2022')
 st.markdown('''
-- Gathered and evaluated the data on credit risk and developed a model to identify fraudulent transactions at a rate 15% higher than before.
-- Implemented Machine Learning methods like Random Forest, Logistic Regression, and Decision Trees.
-- Preprocessed and analyzed data using Python library Pandas and Excel and built data visualizations in Tableau.
+- Gathered and evaluated the data on credit risk and developed and deployed a model to identify fraudulent transactions at a rate 15% higher than before.
+- Developed an end-to-end MLOps pipeline using AWS Sagemaker to enhance the deployed model continually.
+- Created dashboards using Tableau, presented the data and reported conclusions to senior management.
 
 ''')
 
