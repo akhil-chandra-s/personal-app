@@ -194,6 +194,20 @@ st.markdown('''
 - Used machine leraning models such as Logistic regression to predict the outcome.
 ''')
 
+txt3('Auto_Claim_Fraud_Detection', 'https://github.com/akhil-chandra-s/AutoClaimFraudDetection')
+st.markdown('''
+- predict whether auto insurance claim is fradulent or not based on previous data.
+- Made use of libraries like Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn.
+- Developed an end to end machine learning pipeline using Amazon Sagemaker.
+''')
+
+txt3('Customer_Personality_Analysis', 'https://github.com/akhil-chandra-s/Customer_Personality_Analysis---Marketing_Campaign')
+st.markdown('''
+- Provide analysis on customer segmentation based on marketing campaign data.
+- Made use of libraries like Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn.
+- Used machine leraning models such as K-Means to segment the data.
+''')
+
 #####################
 
 
