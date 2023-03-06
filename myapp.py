@@ -16,9 +16,15 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- I am an experienced analyst with a demonstrated history of working in the Analytics space in the development, automation, and software integration for four years. 
-- I developed cutting-edge analytical tools and techniques and worked with clients across various domains, including Insurance, financial services, and risk management sectors. 
-- Skilled in Python, R, Machine Learning, SQL, C#, VBA, Microsoft Excel, Cloud Computing(AWS), Data Visualization.
+-As an Analytics professional with 4 years of experience, I am highly skilled in statistical analysis, machine learning, and data visualization. My expertise lies in using data to uncover insights and drive business decisions. I have worked in diverse industries, including Insurance, Finance, and risk management clients.
+
+-I have a strong command over programming languages such as Python, R, and SQL and experience in working with big data technologies such as Hadoop and Spark. I have also worked extensively with visualization tools like Tableau and Power BI to create intuitive dashboards and communicate complex information effectively.
+
+-In my previous roles, I have applied statistical modeling techniques to solve complex business problems, develop predictive models, and identify patterns and insights from large datasets. I have experience in developing and deploying machine learning models, including deep learning models, and have worked on natural language processing projects.
+
+-I am an analytical problem-solver with a keen attention to detail and a strong focus on delivering high-quality work. I possess excellent communication skills and have the ability to work effectively in a team-oriented environment.
+
+-Overall, I am a data scientist with a passion for finding innovative solutions using data-driven approaches. I am committed to leveraging my skills to help organizations drive growth and achieve their business objectives.
 ''')
 
 #####################
