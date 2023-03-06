@@ -24,7 +24,7 @@ st.info('''
 
 -I am an analytical problem-solver with a keen attention to detail and a strong focus on delivering high-quality work. I possess excellent communication skills and have the ability to work effectively in a team-oriented environment.
 
--Overall, I am a analytical professional with a passion for finding innovative solutions using data-driven approaches. I am committed to leveraging my skills to help organizations drive growth and achieve their business objectives.
+-Overall, I am an analytical professional with a passion for finding innovative solutions using data-driven approaches. I am committed to leveraging my skills to help organizations drive growth and achieve their business objectives.
 ''')
 
 #####################
