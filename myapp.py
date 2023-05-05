@@ -120,6 +120,16 @@ st.markdown('''
 ## Work Experience
 ''')
 
+txt('**Data Science Intern, Cerebral Technologies**, Dallas, TX, USA',
+'Jan 2023 - May 2023')
+st.markdown('''
+- Analyzed health claims data to detect and prevent fraudulent activity, resulting in a 20% reduction in fraudulent claims.
+- Conducted data analysis and identify patterns in healthcare utilization, leading to the identification of cost-saving opportunities and the development of new coverage policies that saved clients $2 million annually.
+- Developed predictive models to identify high-risk patients, predict health outcomes, and streamline the claims 
+adjudication process, resulting in a 15% reduction in claim processing time.
+
+''')
+
 txt('**Data Science Intern, Varunavi Consultants Inc**, Dallas(Remote), USA',
 'May 2022 - Aug 2022')
 st.markdown('''
